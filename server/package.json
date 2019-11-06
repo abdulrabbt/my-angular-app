@@ -20,6 +20,6 @@
   "homepage": "https://github.com/abdulrabbt/Restful_Task_API#readme",
   "dependencies": {
     "express": "^4.17.1",
-    "mongoose": "^5.7.4"
+    "mongoose": "^5.7.5"
   }
 }
